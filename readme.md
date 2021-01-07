@@ -1,5 +1,7 @@
 # Readme
 
+COPIED FROM TKB repo. NEEDS UPDATING.
+
 Node.js web app for use in Pluralsight [Getting Started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents) video course.
 
 Packages and dependencies will be upadted annually. May contain vulnerable code, **use at own risk**.
