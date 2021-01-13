@@ -1,8 +1,8 @@
 # Readme
 
-COPIED FROM TKB repo. NEEDS UPDATING.
+## Quick Start Kubernetes (book)
 
-Node.js web app for use in Pluralsight [Getting Started with Kubernetes](https://app.pluralsight.com/library/courses/getting-started-kubernetes/table-of-contents) video course.
+Node.js web app for use with [Quick Start Kubernetes](leanpub.com/quickstartkubernetes) book.
 
 Packages and dependencies will be upadted annually. May contain vulnerable code, **use at own risk**.
 
@@ -12,7 +12,7 @@ The app, dependencies, and Dockerfile are in the `/App` folder.
 
 ## Kubernetes YAML files
 
-All Kubernetes YAML manifests are in the `Pods`, `Services`, and `Deployments` folders.
+Simple YAML files are in the root folder.
 
 ## Additional references
 
@@ -22,7 +22,7 @@ List of additional books, courses, blogs, and other places this repo is used/ref
 
 ## Pre-created image
 
-A publically available pre-created container image is available for download [here](https://hub.docker.com/repository/docker/nigelpoulton/getting-started-k8s)
+Publicly available pre-created container images are available for download [here](https://hub.docker.com/repository/docker/nigelpoulton/qsk)
 
 ## Connect with me
 
