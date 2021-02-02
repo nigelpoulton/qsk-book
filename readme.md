@@ -2,7 +2,7 @@
 
 ## Quick Start Kubernetes (book)
 
-Node.js web app for use with [Quick Start Kubernetes](leanpub.com/quickstartkubernetes) book.
+Node.js web app for use with [Quick Start Kubernetes](https://leanpub.com/quickstartkubernetes) book.
 
 Packages and dependencies will be upadted annually. May contain vulnerable code, **use at own risk**.
 
