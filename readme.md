@@ -22,7 +22,7 @@ List of additional books, courses, blogs, and other places this repo is used/ref
 
 ## Pre-created image
 
-Publicly available pre-created container images are available for download [here](https://hub.docker.com/repository/docker/nigelpoulton/qsk)
+Publicly available pre-created container images are available for download [here](https://hub.docker.com/r/nigelpoulton/qsk-book)
 
 ## Connect with me
 
