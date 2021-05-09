@@ -4,7 +4,7 @@
 
 Node.js web app for use with [Quick Start Kubernetes](https://leanpub.com/quickstartkubernetes) book.
 
-Packages and dependencies will be upadted annually. May contain vulnerable code, **use at own risk**.
+Packages and dependencies will be updated annually. May contain vulnerable code, **use at own risk**.
 
 ## App
 
