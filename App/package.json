@@ -5,9 +5,9 @@
   "description": "Demo app for Web container demonstrations",
   "main": "app.js",
   "author": "Nigel Poulton <nigelpoulton@hotmail.com>",
-  "license": "Will contain vulnerabilities!",
+  "license": "May contain vulnerabilities!",
   "dependencies": {
-    "express": "4.17.1",
-    "pug": "2.0.4"
+    "express": "4.17.2",
+    "pug": "3.0.2"
   }
 }
