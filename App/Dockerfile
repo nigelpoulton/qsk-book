@@ -2,10 +2,10 @@ FROM node:current-slim
 
 LABEL MAINTAINER=nigelpoulton@hotmail.com
 
-# Copy source code to /src in container
+# Copy source code to /src inside container
 COPY . /src
 
-# Install app and dependencies into /src in container
+# Install app and dependencies into /src inside container
 RUN cd /src; npm install
 
 # Document the port the app listens on
