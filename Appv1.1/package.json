@@ -1,0 +1,15 @@
+{
+  "name": "S.H.I.E.L.D",
+  "version": "1.0.0",
+  "description": "Web server showing host that responded",
+  "author": "@nigelpoulton",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^6.0.7",
+    "handlebars": "^4.7.7",
+    "bytes": "^3.1.2",
+    "minimist": ">=1.2.8",
+    "morgan": "^1.10.0"
+  }
+}

@@ -8,6 +8,6 @@ metadata:
 spec:
   containers:
     - name: web-ctr
-      image: nigelpoulton/qsk-book:1.0
+      image: nigelpoulton/qsk-book:latest
       ports:
         - containerPort: 8080
