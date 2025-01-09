@@ -1,0 +1,11 @@
+kind: Service
+apiVersion: v1
+metadata:
+  name: svc-lb
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 5555
+    targetPort: 8080
+  selector:
+    project: qsk-book
